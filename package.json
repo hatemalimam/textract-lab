@@ -6,6 +6,6 @@
   "dependencies": {
     "aws-sdk": "^2.596.0",
     "commander": "^4.0.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
